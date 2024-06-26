@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Viru.
+- 💻 My main goal is to help @meviru find every achievement badge for his profile.
